@@ -33,13 +33,13 @@ public static boolean verify_Login(String user,String pass)
 }
 public static void add()
 {
-	int a=456,b=98,c;
+	int a=789,b=98,c;
 	c=a/b;
 	System.out.println(c);
 }
 public static void mul()
 {
-	int a=456,b=98,c;
+	int a=546546,b=6867,c;
 	c=a*b;
 	System.out.println(c);
 }
